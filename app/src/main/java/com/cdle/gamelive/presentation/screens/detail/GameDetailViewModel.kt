@@ -2,7 +2,7 @@ package com.cdle.gamelive.presentation.screens.detail
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.cdle.gamelive.data.repository.GameDetailRepository
+import com.cdle.gamelive.domain.repository.GameDetailRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow

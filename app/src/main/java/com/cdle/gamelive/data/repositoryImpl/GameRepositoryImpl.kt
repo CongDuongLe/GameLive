@@ -2,7 +2,7 @@ package com.cdle.gamelive.data.repositoryImpl
 
 import com.cdle.gamelive.data.remote.game.GameApi
 import com.cdle.gamelive.data.remote.game.GameDto
-import com.cdle.gamelive.data.repository.GameRepository
+import com.cdle.gamelive.domain.repository.GameRepository
 import javax.inject.Inject
 
 class GameRepositoryImpl @Inject constructor(

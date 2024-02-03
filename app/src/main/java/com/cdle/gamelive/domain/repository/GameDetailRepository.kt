@@ -1,4 +1,4 @@
-package com.cdle.gamelive.data.repository
+package com.cdle.gamelive.domain.repository
 
 import com.cdle.gamelive.data.remote.game.GameApi
 import com.cdle.gamelive.data.remote.game.GameDetailDto

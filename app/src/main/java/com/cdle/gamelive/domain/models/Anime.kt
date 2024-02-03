@@ -1,4 +1,4 @@
-package com.cdle.gamelive.domain
+package com.cdle.gamelive.domain.models
 
 import com.cdle.gamelive.data.remote.anime.*
 

@@ -1,6 +1,6 @@
 package com.cdle.gamelive.data.remote.game
 
-import com.cdle.gamelive.domain.Game
+import com.cdle.gamelive.domain.models.Game
 import com.squareup.moshi.Json
 
 data class GameResultDto(

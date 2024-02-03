@@ -7,8 +7,8 @@ import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import androidx.paging.cachedIn
 import com.cdle.gamelive.data.pagination.AnimePagingSource
-import com.cdle.gamelive.data.repository.AnimeRepository
-import com.cdle.gamelive.domain.Anime
+import com.cdle.gamelive.domain.repository.AnimeRepository
+import com.cdle.gamelive.domain.models.Anime
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject

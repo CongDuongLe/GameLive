@@ -2,7 +2,7 @@ package com.cdle.gamelive.data.repositoryImpl
 
 import com.cdle.gamelive.data.remote.anime.AnimeApi
 import com.cdle.gamelive.data.remote.anime.AnimeDto
-import com.cdle.gamelive.data.repository.AnimeRepository
+import com.cdle.gamelive.domain.repository.AnimeRepository
 import javax.inject.Inject
 
 

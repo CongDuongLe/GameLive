@@ -10,9 +10,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navigation
-import androidx.paging.compose.LazyPagingItems
 import androidx.paging.compose.collectAsLazyPagingItems
-import com.cdle.gamelive.domain.Game
 import com.cdle.gamelive.presentation.screens.detail.DetailScreen
 import com.cdle.gamelive.presentation.screens.home.HomeScreen
 import com.cdle.gamelive.presentation.screens.home.HomeViewModel

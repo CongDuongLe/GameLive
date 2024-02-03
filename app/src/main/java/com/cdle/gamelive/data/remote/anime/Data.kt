@@ -1,7 +1,7 @@
 package com.cdle.gamelive.data.remote.anime
 
 
-import com.cdle.gamelive.domain.Anime
+import com.cdle.gamelive.domain.models.Anime
 import com.squareup.moshi.Json
 
 data class Data(

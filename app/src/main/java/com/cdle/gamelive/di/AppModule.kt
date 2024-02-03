@@ -2,8 +2,8 @@ package com.cdle.gamelive.di
 
 import com.cdle.gamelive.data.pagination.AnimePagingSource
 import com.cdle.gamelive.data.pagination.GamePagingSource
-import com.cdle.gamelive.data.repository.AnimeRepository
-import com.cdle.gamelive.data.repository.GameRepository
+import com.cdle.gamelive.domain.repository.AnimeRepository
+import com.cdle.gamelive.domain.repository.GameRepository
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

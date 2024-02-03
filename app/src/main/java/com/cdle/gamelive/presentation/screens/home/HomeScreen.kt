@@ -22,7 +22,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.paging.LoadState
 import androidx.paging.compose.LazyPagingItems
-import com.cdle.gamelive.domain.Game
+import com.cdle.gamelive.domain.models.Game
 import com.cdle.gamelive.navigation.LeafScreen
 import com.cdle.gamelive.presentation.screens.detail.components.ImageWithLoadingState
 

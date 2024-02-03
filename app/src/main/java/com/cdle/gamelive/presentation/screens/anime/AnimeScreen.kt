@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.paging.LoadState
 import androidx.paging.compose.LazyPagingItems
-import com.cdle.gamelive.domain.Anime
+import com.cdle.gamelive.domain.models.Anime
 import com.cdle.gamelive.presentation.screens.detail.components.ImageWithLoadingState
 import com.cdle.gamelive.presentation.screens.detail.components.LoadingIndicator
 

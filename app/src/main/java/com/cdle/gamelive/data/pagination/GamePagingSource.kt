@@ -3,8 +3,8 @@ package com.cdle.gamelive.data.pagination
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import com.cdle.gamelive.data.remote.game.toGame
-import com.cdle.gamelive.data.repository.GameRepository
-import com.cdle.gamelive.domain.Game
+import com.cdle.gamelive.domain.repository.GameRepository
+import com.cdle.gamelive.domain.models.Game
 import okio.IOException
 import retrofit2.HttpException
 
